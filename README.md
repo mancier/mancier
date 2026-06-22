@@ -59,7 +59,7 @@ _(You can swap or expand these later with more documented or deployed projects.)
 ## 📫 Contact
 
 📧 **Email:** victor.silva452@outlook.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/victor-augusto-souza-e-silva/
+🔗 **LinkedIn:** https://www.linkedin.com/in/mancier/
 
 ---
 
